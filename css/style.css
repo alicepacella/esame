@@ -1,0 +1,174 @@
+
+body {
+	background-color: black !important;
+}
+
+
+ button {
+	color: white !important;
+}
+
+h1  {
+	text-align: center;
+	padding: 5% 5% 1% 5%;
+	font-family: 'Playfair Display', serif;
+	font-size: 6em !important;
+	color: #C22727;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 2em !important;
+	padding: 4% 4% 1% 4%;
+	color: lightgrey;
+}
+
+h3  {
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	padding: 3% 4%;
+	color: lightgrey;
+}
+
+.uno {
+	
+	font-family: 'Oswald', sans-serif;
+	color: #363532 !important;
+	font-size: 1.5em;
+	background-color: black;
+
+}
+
+.due {
+	
+	font-family: 'Oswald', sans-serif;
+	color: #C22727 !important;
+	font-size: 2em;
+
+}
+
+a:hover {
+	
+	color: white !important;
+
+}
+
+#icon {
+	color: #CC0000;
+	font-size: 10em;
+	left: 90%;
+	bottom: 85%;
+}
+
+.carousel-item {
+	text-align: center;
+	padding: 2em;
+
+}
+
+#youtube {
+	padding: 4%;
+	left: 50%;
+}
+
+footer {
+	padding: 3%;
+}
+
+#igicon {
+	position: relative;
+	top: 80%;
+	left: 42%;
+	color:#C22727;
+	font-size: 2em;
+}
+
+#xicon {
+	position: relative;
+	top: 80%;
+	left: 45%;
+	color: #C22727;
+	font-size: 2em;
+}
+
+#ficon {
+	position: relative;
+	top: 80%;
+	left: 48%;
+	color: #C22727;
+	font-size: 2em;
+}
+
+
+
+
+iframe {
+	padding: 2em;
+	
+}
+
+#doc {
+	top: 80%;
+	right: 10%;
+}
+
+#doc1 {
+	color: lightgrey;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	padding: 1em;
+	font-size: 300% !important;
+
+}
+
+.plan {text-align: center;}
+
+.struttura {
+	width: 40%;
+	padding: 3% 7%;
+}
+
+#album {
+	text-align: center;
+	color:#C22727;
+	font-family: 'Playfair Display', serif;
+	font-size: 3.5em;
+	padding: 1em;
+}
+
+#album1 {
+	padding: 3em;
+	left: 20;
+	
+}
+
+#album2 {
+	
+	right: 3%;
+	padding: 3em;
+	
+	
+
+}
+
+#album3 {
+	
+	padding: 3em;
+	
+
+
+}
+
+.band {
+	color: #C22727;
+}
+
+
+
+
+
+
+
+
+
+
